@@ -1,7 +1,9 @@
-### Sou Victor Cruz 👋
+### I am Victor Cruz! 👋
 
-- Estou cursando Engenharia
-- Estudando Typescript
+- I am currently studying Electronic Engineering
+- Studying React e Node.js
+- I love learning and understanding how computers and other machines work. 
+- My greatest passion in life has always been airplanes, rockets and space science.
 
 <div align="center">
   <a href="https://github.com/VCOliver">

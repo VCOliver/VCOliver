@@ -2,7 +2,7 @@
 
 - I am currently studying Electronic Engineering
 - Studying React e Node.js
-- I love learning and understanding how computers and other machines work. 
+- I love learning and understanding how computers and other machines work. I also love solving logical problems
 - My greatest passion in life has always been airplanes, rockets and space science.
 
 <div align="center">

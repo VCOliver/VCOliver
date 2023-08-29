@@ -1,7 +1,7 @@
 ### I am Victor Cruz! 👋
 
 - I am currently studying Electronic Engineering
-- Studying React, Node and Python
+- Studying C++ and Python
 - I love learning, solving logical problems and understanding how computers and other machines work.
 - My greatest passion in life has always been airplanes, rockets and space science.
 
